@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="iOS/NapsackProblem.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NapsackProblem/NapsackProblem.cs">
+    <Files>
+      <File FileName="NapsackProblem/NapsackProblem.cs" Line="137" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

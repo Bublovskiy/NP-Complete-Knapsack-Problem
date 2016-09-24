@@ -1,0 +1,7 @@
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/bin/Debug/Xamarin.Forms.Core.dll
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/bin/Debug/NapsackProblem.dll.mdb
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/bin/Debug/NapsackProblem.dll
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/obj/Debug/NapsackProblem.dll
+/Users/BMW/Documents/PROGRAMMING/XAMARIN/NapsackProblem/NapsackProblem/obj/Debug/NapsackProblem.dll.mdb
